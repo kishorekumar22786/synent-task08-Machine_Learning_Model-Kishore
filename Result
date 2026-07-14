@@ -1,0 +1,6 @@
+Successfully built a machine learning model to predict house prices based on property features.
+Identified the key factors that have the greatest impact on house prices.
+Achieved reliable prediction performance using the trained model.
+Evaluated the model using metrics such as MAE, MSE, and R² Score.
+Compared predicted prices with actual prices to assess model accuracy.
+Demonstrated how machine learning can support accurate and data-driven house price prediction.
